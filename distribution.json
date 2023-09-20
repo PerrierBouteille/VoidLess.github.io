@@ -11,7 +11,7 @@
       "id": "Forge-1.8.9",
       "name": "Forge (Minecraft 1.8.9)",
       "description": "Forge Running Minecraft 1.8.9 (Forge v11.15.1.2318)",
-      "icon": null,
+      "icon": "https://images.sftcdn.net/images/t_app-icon-s/p/124cc950-96d1-11e6-be9d-00163ec9f5fa/4250568276/minecraft-forge-icon.jpg",
       "version": "1.0.0",
       "address": "localhost:25565",
       "minecraftVersion": "1.8.9",
