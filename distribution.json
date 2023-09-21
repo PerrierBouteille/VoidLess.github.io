@@ -247,15 +247,15 @@
       "description": "SkyBlock Running Minecraft 1.8.9 (Forge v11.15.1.2318)",
       "icon": "https://raw.githubusercontent.com/PerrierBouteille/VoidLess.github.io/main/pack.png",
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "hypixel.net:25565",
       "minecraftVersion": "1.8.9",
       "discord": {
         "shortId": "1150886293727883285",
         "largeImageText": "VoidLess Launcher | 1.8.9 - Skyblock",
         "largeImageKey": "output-onlinetools"
       },
-      "mainServer": false,
-      "autoconnect": false,
+      "mainServer": true,
+      "autoconnect": true,
       "modules": [
         {
           "id": "net.minecraftforge:forge:1.8.9-11.15.1.2318-1.8.9:universal",
